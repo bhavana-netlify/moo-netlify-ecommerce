@@ -1,2 +1,4 @@
 [build]
   functions = "functions"
+[[headers]]
+/* Basic-Auth: ameer:ameer123
