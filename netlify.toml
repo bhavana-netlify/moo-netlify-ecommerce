@@ -3,7 +3,7 @@
 
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
-  for = "*"
+  for = "/*"
   [headers.values]
     # Basic-Auth allows you to password protect your whole site.
     Basic-Auth = "ameer:ameer123" 
